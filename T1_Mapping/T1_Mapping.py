@@ -101,7 +101,7 @@ class T1_MappingWidget(ScriptedLoadableModuleWidget):
     self.layout.addStretch(1)
 
     # Refresh Apply button state
-    self.onSelect()
+    #self.onSelect()
 
   def cleanup(self):
     pass
