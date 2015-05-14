@@ -1,6 +1,6 @@
 from __main__ import vtk, qt, ctk, slicer
 from slicer.ScriptedLoadableModule import *
-import os, sys, getopt, tempfile, shutil
+import os, sys, getopt, tempfile, shutil, string
 import unittest
 import logging
 import numpy
